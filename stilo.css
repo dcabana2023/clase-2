@@ -150,6 +150,27 @@ nav ul{
     font-size: 30px;
     font-family: cursive;
 }
+@media screen (max-width: 600px;) {
+    body{
+        background-color: blue;
+        display: flex;
+        margin: auto;
+    }
+    .purina img{
+        width: 50%;
+    }
+    .jugete img{
+        width: 50%;
+    }
+    .arbol img{
+        width: 50%;
+    }
+    .pescado img{
+        width: 50%;
+    }
+
+}  
+    
 
 -----------
 /form/
